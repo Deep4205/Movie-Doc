@@ -1,0 +1,16 @@
+*{
+  cursor: url('../img/cursor.png'),auto;
+}
+*:hover{
+  cursor: url('../img/cursor.png'),auto;
+}
+button:hover{
+  cursor: url('../img/cursor.png'),auto;
+}
+
+
+
+.fit-cover {
+  object-fit: cover;
+}
+
